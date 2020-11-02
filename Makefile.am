@@ -52,7 +52,8 @@ EXTRA_DIST = \
 	avahi-ui.pc.in \
 	avahi-ui-gtk3.pc.in \
 	doxygen_to_devhelp.xsl \
-        common/introspection.m4
+        common/introspection.m4 \
+        service-type-database/build-db
 
 SUBDIRS = \
 	common \
